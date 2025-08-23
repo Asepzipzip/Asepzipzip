@@ -13,7 +13,7 @@
 > Suka ngepormt ke gemini
 
 ## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@AsepSukandar) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asepp_sukandar) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23000000.svg?logo=WhatsApp&logoColor=white)](https://wa.me/6287841941354) 
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-%23000000.svg?logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029Vb5zBcw35fLrosuwFN18) 
 
